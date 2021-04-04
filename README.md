@@ -1,6 +1,6 @@
-- 👋 Howdy, I’m @TAMUags, a student pursuing a computer engineering degree at Texas A&M.
-- 👀 I’m interested in Machine learning, Algorithms, Data-Structures, Mobile Development, and all thing computer hardware
-- 🌱 I’m currently learning Data-Structures and Algorithms for C++, and python
-- 💞️ I’m looking to collaborate on anything that I can contribute to and learn from
+- 👋 Howdy, I’m TAMUags, a Student Pursuing a Computer Engineering Degree at Texas A&M.
+- 👀 I’m interested in Machine learning, Algorithms, Data-Structures, Mobile Development, and All Things Computer Hardware.
+- 🌱 Currently Learning Data-Structures and Algorithms for C++, and Python.
+- 💞️ Looking to Collaborate on Projects that I Can Contribute to and Learn From.
 
 
