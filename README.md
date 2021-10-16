@@ -1,6 +1,6 @@
-- 👋 Howdy, I’m TAMUags, a Student Pursuing a Computer Engineering Degree at Texas A&M.
+- 👋 Howdy, I’m TAMUags, an A&M industrial & systems engineering undergrad with a minor in computer sciemce, and plans to switch to computer engineering.
 - 👀 I’m interested in Machine learning, Algorithms, Data-Structures, Mobile Development, and All Things Computer Hardware.
-- 🌱 Currently Learning Data-Structures and Algorithms for C++, and Python.
-- 💞️ Looking to Collaborate on Projects that I Can Contribute to and Learn From.
+- 🌱 Currently Learning HDL, ASM.
+- 💞️ Looking to Collaborate on Projects that I can contribute to and Learn From.
 
 
